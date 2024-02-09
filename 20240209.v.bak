@@ -1,0 +1,9 @@
+module and_gate_a(a, b, c, s);
+
+	input a, b, c;
+	output xor1, s;
+
+	xor(xor1, a, b);
+	and(s, xor1, c);
+
+endmodule

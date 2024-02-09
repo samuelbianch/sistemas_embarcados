@@ -1,0 +1,8 @@
+D:/SistemasEmbarcados/Somador.v {1 {vlog -work work -stats=none {D:\SistemasEmbarcados\Somador.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Somador
+
+Top level modules:
+	Somador
+
+} {} {}}
