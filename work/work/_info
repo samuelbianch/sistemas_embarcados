@@ -1,0 +1,296 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vBehaviorModelUlda
+!s110 1709938937
+!i10b 1
+!s100 KhOOF=fQWj>mR2EVX4N0[1
+ICXP1_2VDRaoP`DMO4iReV1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/apps/sistemas_embarcados/work
+w1709938933
+8D:/apps/sistemas_embarcados/work/BMUla.v
+FD:/apps/sistemas_embarcados/work/BMUla.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1709938937.000000
+!s107 D:/apps/sistemas_embarcados/work/BMUla.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/apps/sistemas_embarcados/work/BMUla.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@behavior@model@ulda
+vBMFlipFlopSR
+Z5 !s110 1709923803
+!i10b 1
+!s100 0@i5dV5@_BUi_CaTli@7M2
+IO_74I4Uf_hJhA=naB92kW2
+R0
+R1
+w1709923118
+8D:/apps/sistemas_embarcados/work/BMFlipFlopSR.v
+FD:/apps/sistemas_embarcados/work/BMFlipFlopSR.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z6 !s108 1709923803.000000
+!s107 D:/apps/sistemas_embarcados/work/BMFlipFlopSR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/apps/sistemas_embarcados/work/BMFlipFlopSR.v|
+!i113 1
+R3
+R4
+n@b@m@flip@flop@s@r
+vDataFlowModelUlda
+!s110 1709939195
+!i10b 1
+!s100 aCV<HzIRA:aL_I0AG2:mb3
+I2G1Um5IoTIlf<17OG=13j1
+R0
+R1
+w1709939191
+8D:/apps/sistemas_embarcados/work/DFUla.v
+FD:/apps/sistemas_embarcados/work/DFUla.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1709939195.000000
+!s107 D:/apps/sistemas_embarcados/work/DFUla.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/apps/sistemas_embarcados/work/DFUla.v|
+!i113 1
+R3
+R4
+n@data@flow@model@ulda
+vDataFlowModelUlda_tb
+!s110 1709939290
+!i10b 1
+!s100 CL:E::AJ`g@Cbl2?;jAM93
+IGHDEHNP<GFdO6UD;kNfb[2
+R0
+R1
+w1709939274
+8D:/apps/sistemas_embarcados/work/TBUla.v
+FD:/apps/sistemas_embarcados/work/TBUla.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1709939290.000000
+!s107 D:/apps/sistemas_embarcados/work/TBUla.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/apps/sistemas_embarcados/work/TBUla.v|
+!i113 1
+R3
+R4
+n@data@flow@model@ulda_tb
+vDFFlipFlopSR
+R5
+!i10b 1
+!s100 _2Z]4CF2GiB@8aYhQRA_O2
+Ill9_`bJ<a<9cV=B:=4dn?1
+R0
+R1
+w1709923293
+8D:/apps/sistemas_embarcados/work/DFFlipFlopSR.v
+FD:/apps/sistemas_embarcados/work/DFFlipFlopSR.v
+L0 1
+R2
+r1
+!s85 0
+31
+R6
+!s107 D:/apps/sistemas_embarcados/work/DFFlipFlopSR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/apps/sistemas_embarcados/work/DFFlipFlopSR.v|
+!i113 1
+R3
+R4
+n@d@f@flip@flop@s@r
+vFlipFlopSR_tb_structural
+R5
+!i10b 1
+!s100 [zSmfMK@gLM=L[z?d??KG2
+IFQOV2cFYo`;giF?T6U<mj2
+R0
+R1
+w1709923784
+8D:/apps/sistemas_embarcados/work/TBFlipFlopSR.v
+FD:/apps/sistemas_embarcados/work/TBFlipFlopSR.v
+L0 1
+R2
+r1
+!s85 0
+31
+R6
+!s107 D:/apps/sistemas_embarcados/work/TBFlipFlopSR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/apps/sistemas_embarcados/work/TBFlipFlopSR.v|
+!i113 1
+R3
+R4
+n@flip@flop@s@r_tb_structural
+vSMFlipFlopSR
+R5
+!i10b 1
+!s100 _g82Vf2f]Hg;Gh@MlC]XC1
+I6^6WYcj@Ygc`0J>cbOf640
+R0
+R1
+w1709922626
+8D:/apps/sistemas_embarcados/work/SMFlipFlop.v
+FD:/apps/sistemas_embarcados/work/SMFlipFlop.v
+L0 1
+R2
+r1
+!s85 0
+31
+R6
+!s107 D:/apps/sistemas_embarcados/work/SMFlipFlop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/apps/sistemas_embarcados/work/SMFlipFlop.v|
+!i113 1
+R3
+R4
+n@s@m@flip@flop@s@r
+vSomadorCompleto1Bit
+Z7 !s110 1709912821
+!i10b 1
+!s100 >Y7SkB4NIkIiFiJM6:1H=2
+I3hO1;A6a@nGfcmRWSPhGm3
+R0
+R1
+w1709909980
+8D:/apps/sistemas_embarcados/work/SMSomadorCompleto8Bits.v
+FD:/apps/sistemas_embarcados/work/SMSomadorCompleto8Bits.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z8 !s108 1709912821.000000
+!s107 D:/apps/sistemas_embarcados/work/SMSomadorCompleto8Bits.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/apps/sistemas_embarcados/work/SMSomadorCompleto8Bits.v|
+!i113 1
+R3
+R4
+n@somador@completo1@bit
+vSomadorCompleto1Bit_tb
+!s110 1709906169
+!i10b 1
+!s100 QFS0h<Ikkho8`0cODe[We3
+I=@HR3WezRU3]ch^FGFPYV2
+R0
+R1
+w1709906018
+8D:/apps/sistemas_embarcados/work/TBSomadorCompleto1Bit.v
+FD:/apps/sistemas_embarcados/work/TBSomadorCompleto1Bit.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1709906169.000000
+!s107 D:/apps/sistemas_embarcados/work/TBSomadorCompleto1Bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/apps/sistemas_embarcados/work/TBSomadorCompleto1Bit.v|
+!i113 1
+R3
+R4
+n@somador@completo1@bit_tb
+vSomadorCompleto8Bits
+R7
+!i10b 1
+!s100 RLJW;eSENLlEDN?W_EIcC2
+Ih>2bmGUW^6]T_fOWCb2?c0
+R0
+R1
+w1709911237
+8D:/apps/sistemas_embarcados/work/BHSomadorCompleto8Bits.v
+FD:/apps/sistemas_embarcados/work/BHSomadorCompleto8Bits.v
+L0 1
+R2
+r1
+!s85 0
+31
+R8
+!s107 D:/apps/sistemas_embarcados/work/BHSomadorCompleto8Bits.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/apps/sistemas_embarcados/work/BHSomadorCompleto8Bits.v|
+!i113 1
+R3
+R4
+n@somador@completo8@bits
+vSomadorCompleto8Bits_tb
+R7
+!i10b 1
+!s100 ;iOKQ<<a]ERG;DG_G@:3z1
+I[oKQ@9`bU42kBGZ9;Z@[`2
+R0
+R1
+w1709912751
+8D:/apps/sistemas_embarcados/work/TBSomadorCompleto8Bits.v
+FD:/apps/sistemas_embarcados/work/TBSomadorCompleto8Bits.v
+L0 2
+R2
+r1
+!s85 0
+31
+R8
+!s107 D:/apps/sistemas_embarcados/work/TBSomadorCompleto8Bits.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/apps/sistemas_embarcados/work/TBSomadorCompleto8Bits.v|
+!i113 1
+R3
+R4
+n@somador@completo8@bits_tb
+vSomadorCompleto8BitsDF
+R7
+!i10b 1
+!s100 Jng7i1f1YRJZH7aR]ZRSB2
+I6lMfcS2fe>WXFdnDnTFn30
+R0
+R1
+w1709912379
+8D:/apps/sistemas_embarcados/work/DFSomadorCompleto8Bits.v
+FD:/apps/sistemas_embarcados/work/DFSomadorCompleto8Bits.v
+L0 1
+R2
+r1
+!s85 0
+31
+R8
+!s107 D:/apps/sistemas_embarcados/work/DFSomadorCompleto8Bits.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/apps/sistemas_embarcados/work/DFSomadorCompleto8Bits.v|
+!i113 1
+R3
+R4
+n@somador@completo8@bits@d@f
+vStructureModelUlda
+!s110 1709930122
+!i10b 1
+!s100 hDOJ:Q[=S]mfJRPZ4B]zb2
+IbE7zh5`fHTDeiS=9iKlBc3
+R0
+R1
+w1709930112
+8D:/apps/sistemas_embarcados/work/SMUla.v
+FD:/apps/sistemas_embarcados/work/SMUla.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1709930122.000000
+!s107 D:/apps/sistemas_embarcados/work/SMUla.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/apps/sistemas_embarcados/work/SMUla.v|
+!i113 1
+R3
+R4
+n@structure@model@ulda

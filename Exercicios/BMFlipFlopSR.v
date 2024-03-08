@@ -1,0 +1,10 @@
+module BMFlipFlopSR(
+    input S, R,
+    output reg Q, Qbar
+);
+
+    always @(S, R) begin
+        Qbar = ~(S | Q);
+        Q = ~(R | Qbar);
+    end
+endmodule

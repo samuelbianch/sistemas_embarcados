@@ -1,0 +1,8 @@
+module SomadorCompleto1Bit(x, y, Cin , Cout, A);
+input x, y, Cin;
+output Cout, A;
+wire p, r, s;
+
+always @(x, y, Cin)
+
+endmodule

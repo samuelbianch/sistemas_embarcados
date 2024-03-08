@@ -1,0 +1,29 @@
+D:/apps/sistemas_embarcados/work/TBSomadorCompleto1Bit.v {1 {vlog -work work -stats=none D:/apps/sistemas_embarcados/work/TBSomadorCompleto1Bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SomadorCompleto1Bit_tb
+
+Top level modules:
+	SomadorCompleto1Bit_tb
+
+} {} {}} D:/apps/sistemas_embarcados/work/DFSomadorCompleto1Bit.v {1 {vlog -work work -stats=none D:/apps/sistemas_embarcados/work/DFSomadorCompleto1Bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SomadorCompleto1Bit
+
+Top level modules:
+	SomadorCompleto1Bit
+
+} {} {}} D:/apps/sistemas_embarcados/work/BMSomadorCompleto1Bit.v {1 {vlog -work work -stats=none D:/apps/sistemas_embarcados/work/BMSomadorCompleto1Bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SomadorCompleto1Bit
+
+Top level modules:
+	SomadorCompleto1Bit
+
+} {} {}} D:/apps/sistemas_embarcados/work/StructuralModeling.v {1 {vlog -work work -stats=none D:/apps/sistemas_embarcados/work/StructuralModeling.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SomadorCompleto1Bit
+
+Top level modules:
+	SomadorCompleto1Bit
+
+} {} {}}

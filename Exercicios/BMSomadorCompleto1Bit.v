@@ -1,0 +1,11 @@
+module SomadorCompleto1Bit(x, y, Cin , Cout, A);
+input x, y, Cin;
+output reg Cout, A;
+
+always @(x, y, Cin) begin
+
+A = (x ^ y) ^ Cin;
+Cout = ((x ^ y) & Cin) | (x & y);
+
+end
+endmodule

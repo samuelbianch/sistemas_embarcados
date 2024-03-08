@@ -1,0 +1,9 @@
+module SMFlipFlopSR(
+    input S, R, CLK,
+    reg Q, Qbar
+);
+
+    nor n1(Qbar, S, CLK);
+    nor n2(Q, R, CLK);
+
+endmodule

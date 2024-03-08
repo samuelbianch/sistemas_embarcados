@@ -1,0 +1,29 @@
+D:/apps/sistemas_embarcados/work/SMSomadorCompleto8Bits.v {1 {vlog -work work -stats=none D:/apps/sistemas_embarcados/work/SMSomadorCompleto8Bits.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SomadorCompleto1Bit
+
+Top level modules:
+	SomadorCompleto1Bit
+
+} {} {}} D:/apps/sistemas_embarcados/work/TBSomadorCompleto8Bits.v {1 {vlog -work work -stats=none D:/apps/sistemas_embarcados/work/TBSomadorCompleto8Bits.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SomadorCompleto8Bits_tb
+
+Top level modules:
+	SomadorCompleto8Bits_tb
+
+} {} {}} D:/apps/sistemas_embarcados/work/DFSomadorCompleto8Bits.v {1 {vlog -work work -stats=none D:/apps/sistemas_embarcados/work/DFSomadorCompleto8Bits.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SomadorCompleto8BitsDF
+
+Top level modules:
+	SomadorCompleto8BitsDF
+
+} {} {}} D:/apps/sistemas_embarcados/work/BHSomadorCompleto8Bits.v {1 {vlog -work work -stats=none D:/apps/sistemas_embarcados/work/BHSomadorCompleto8Bits.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SomadorCompleto8Bits
+
+Top level modules:
+	SomadorCompleto8Bits
+
+} {} {}}
