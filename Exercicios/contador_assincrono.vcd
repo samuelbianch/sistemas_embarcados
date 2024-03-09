@@ -1,0 +1,41 @@
+$date
+	Fri Mar 08 22:09:09 2024
+$end
+$version
+	ModelSim Version 10.5b
+$end
+$timescale
+	1ps
+$end
+
+$scope module ContadorAssincrono_tb $end
+$var parameter 32 ! PERIOD $end
+$var reg 1 " clk $end
+$var reg 1 # reset $end
+$var wire 1 $ count [3] $end
+$var wire 1 % count [2] $end
+$var wire 1 & count [1] $end
+$var wire 1 ' count [0] $end
+
+$scope module dut $end
+$var wire 1 ( clk $end
+$var wire 1 ) reset $end
+$var reg 4 * count [3:0] $end
+$var reg 4 + next_count [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x"
+1#
+bx *
+b101 +
+b1010 !
+x'
+x&
+x%
+x$
+1)
+x(
+$end

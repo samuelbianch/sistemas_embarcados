@@ -52,6 +52,50 @@ Z6 !s108 1709923803.000000
 R3
 R4
 n@b@m@flip@flop@s@r
+vContadorAssincrono
+Z7 !s110 1709950374
+!i10b 1
+!s100 <OT;[6TA0Jh8QB@BomQ^A2
+I_FadRA3m?LB7<QT;^SDzc3
+R0
+R1
+w1709948582
+8D:/apps/sistemas_embarcados/work/Contador.v
+FD:/apps/sistemas_embarcados/work/Contador.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z8 !s108 1709950374.000000
+!s107 D:/apps/sistemas_embarcados/work/Contador.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/apps/sistemas_embarcados/work/Contador.v|
+!i113 1
+R3
+R4
+n@contador@assincrono
+vContadorAssincrono_tb
+R7
+!i10b 1
+!s100 Z8b]bkFAC;N1>cd^HofEH2
+Id?:ZiD8^F2OcDBNLVLOEe0
+R0
+R1
+w1709950352
+8D:/apps/sistemas_embarcados/work/TBContador.v
+FD:/apps/sistemas_embarcados/work/TBContador.v
+L0 1
+R2
+r1
+!s85 0
+31
+R8
+!s107 D:/apps/sistemas_embarcados/work/TBContador.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/apps/sistemas_embarcados/work/TBContador.v|
+!i113 1
+R3
+R4
+n@contador@assincrono_tb
 vDataFlowModelUlda
 !s110 1709939195
 !i10b 1
@@ -163,7 +207,7 @@ R3
 R4
 n@s@m@flip@flop@s@r
 vSomadorCompleto1Bit
-Z7 !s110 1709912821
+Z9 !s110 1709912821
 !i10b 1
 !s100 >Y7SkB4NIkIiFiJM6:1H=2
 I3hO1;A6a@nGfcmRWSPhGm3
@@ -177,7 +221,7 @@ R2
 r1
 !s85 0
 31
-Z8 !s108 1709912821.000000
+Z10 !s108 1709912821.000000
 !s107 D:/apps/sistemas_embarcados/work/SMSomadorCompleto8Bits.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/apps/sistemas_embarcados/work/SMSomadorCompleto8Bits.v|
 !i113 1
@@ -207,7 +251,7 @@ R3
 R4
 n@somador@completo1@bit_tb
 vSomadorCompleto8Bits
-R7
+R9
 !i10b 1
 !s100 RLJW;eSENLlEDN?W_EIcC2
 Ih>2bmGUW^6]T_fOWCb2?c0
@@ -221,7 +265,7 @@ R2
 r1
 !s85 0
 31
-R8
+R10
 !s107 D:/apps/sistemas_embarcados/work/BHSomadorCompleto8Bits.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/apps/sistemas_embarcados/work/BHSomadorCompleto8Bits.v|
 !i113 1
@@ -229,7 +273,7 @@ R3
 R4
 n@somador@completo8@bits
 vSomadorCompleto8Bits_tb
-R7
+R9
 !i10b 1
 !s100 ;iOKQ<<a]ERG;DG_G@:3z1
 I[oKQ@9`bU42kBGZ9;Z@[`2
@@ -243,7 +287,7 @@ R2
 r1
 !s85 0
 31
-R8
+R10
 !s107 D:/apps/sistemas_embarcados/work/TBSomadorCompleto8Bits.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/apps/sistemas_embarcados/work/TBSomadorCompleto8Bits.v|
 !i113 1
@@ -251,7 +295,7 @@ R3
 R4
 n@somador@completo8@bits_tb
 vSomadorCompleto8BitsDF
-R7
+R9
 !i10b 1
 !s100 Jng7i1f1YRJZH7aR]ZRSB2
 I6lMfcS2fe>WXFdnDnTFn30
@@ -265,7 +309,7 @@ R2
 r1
 !s85 0
 31
-R8
+R10
 !s107 D:/apps/sistemas_embarcados/work/DFSomadorCompleto8Bits.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/apps/sistemas_embarcados/work/DFSomadorCompleto8Bits.v|
 !i113 1
