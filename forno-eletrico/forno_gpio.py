@@ -1,5 +1,3 @@
-import random
-import time
 import RPi.GPIO as GPIO
 
 # Botões
@@ -16,9 +14,10 @@ forno_ligado = 31       # GPIO 6    | Saída
 aquecendo = 33          # GPIO 13   | Saída
 resfriando = 35         # GPIO 19   | Saída
 
+# temperatura forno
+temp = 0
+
 def read_button():
-	while (not (GPIO.input(liga_desliga) or GPIO.input(temp_180) or GPIO.input(temp_250) or GPIO.input(opc_desabilitado) or GPIO.input(seleciona_tempo))):
-		pass
 	if GPIO.input(liga_desliga):
 		return 1
 	if GPIO.input(temp_180):
