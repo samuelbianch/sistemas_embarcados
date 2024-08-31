@@ -15,15 +15,12 @@ desejada.
 
 6. A resistência deverá ser ligada/desligada da seguinte forma:
 
-
-
-| Atuação 	| Temperatura escolhida 	                |
+| Atuação 	| Temperatura escolhida 	|       |       |
 |           |-----------------------	|-----	|-----	|
 |-----------| 180                   	| 220 	| 250 	|
 | Liga    	| 179                   	| 219 	| 249 	|
 | Desliga 	| 181                   	| 221 	| 251 	|
 |         	|                       	|     	|     	|
-
 
 essas temperaturas poderão ser alteradas para temperaturas em uma faixa mais baixa para que os testes em laboratório sejam possíveis;
 
