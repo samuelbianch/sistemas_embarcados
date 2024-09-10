@@ -1,7 +1,7 @@
 import forno_gpio
 import time
 
-forno = forno_gpio()
+forno = forno_gpio.Forno()
 
 forno.setup()
 
