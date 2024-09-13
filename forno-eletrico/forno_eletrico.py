@@ -3,10 +3,8 @@ import time
 
 forno = forno_gpio.Forno()
 
-forno.setup()
-
 def ligar_desligar_forno():
-    forno.ligado = not forno.ligado
+    forno.forno_ligado = not forno.forno_ligado
 
 def set_temperatura(temperatura_setada):
     if forno.temp < temperatura_setada:

@@ -16,7 +16,7 @@ class Forno:
     resfriando = 35         # GPIO 19   | Saída
 
     def __init__(self):
-        self.temp = 0
+        self.temp = 27 # Temperatura ambiente
         self.setup()
 
     def setup(self):
@@ -38,6 +38,8 @@ class Forno:
         self.leds_off()
 
     def read_button(self):
+        while (not (GPIO.input(self.liga_desliga) or GPIO.input(self.temp_180) or GPIO.input(self.temp_220) or GPIO.input(self.temp_250) or GPIO.input(self.opc_desabilitado) or GPIO.input(self.seleciona_tempo))):
+            pass
         if GPIO.input(self.liga_desliga):
             return 1
         if GPIO.input(self.temp_180):
